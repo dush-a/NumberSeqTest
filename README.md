@@ -1,12 +1,11 @@
 # Numeric Sequence Project
 Numeric Sequence Calculator
 
-<p id="instructions" class=" help-block">
-        This show a numeric Sequences based on input given by the user.
-    </p>
-    <p>
-        The following numeric sequences are displayed.
-    </p>
+
+This shows a numeric Sequences based on input given by the user.
+
+<h3>The following numeric sequences are displayed.</h3>
+<div>
     <ul>
         <li>All numbers up to and including the number entered</li>
         <li>
@@ -29,6 +28,7 @@ Numeric Sequence Calculator
             All fibonacci number up to and including the number entered
         </li>
     </ul>
+</div>    
 <b>How to use</b>
 
 1. Download the Zip file
