@@ -1,5 +1,35 @@
-# NumberSeqTest
+# Numeric Sequence Project
 Numeric Sequence Calculator
+
+<p id="instructions" class=" help-block">
+        This show a numeric Sequences based on input given by the user.
+    </p>
+    <p>
+        The following numeric sequences are displayed.
+    </p>
+    <ul>
+        <li>All numbers up to and including the number entered</li>
+        <li>
+            All odd numbers up to and including the number entered
+        </li>
+        <li>
+            All even numbers up to and including the number entered
+        </li>
+        <li>
+            All numbers up to and including the number entered, except when:
+            <ol>
+                <li>A number is a multiple of 3 output C</li>
+                <li>
+                    A number is a multiple of 5 output E
+                </li>
+                <li>A number is a multiple of both 3 and 5 output Z</li>
+            </ol>
+        </li>
+        <li>
+            All fibonacci number up to and including the number entered
+        </li>
+    </ul>
+<b>How to use</b>
 
 1. Download the Zip file
 2. Unzip it to a new or empty folder
