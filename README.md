@@ -1,34 +1,7 @@
 # Numeric Sequence Project
-Numeric Sequence Calculator
-
 
 This shows a numeric Sequences based on input given by the user.
 
-<h3>The following numeric sequences are displayed.</h3>
-<div>
-    <ul>
-        <li>All numbers up to and including the number entered</li>
-        <li>
-            All odd numbers up to and including the number entered
-        </li>
-        <li>
-            All even numbers up to and including the number entered
-        </li>
-        <li>
-            All numbers up to and including the number entered, except when:
-            <ol>
-                <li>A number is a multiple of 3 output C</li>
-                <li>
-                    A number is a multiple of 5 output E
-                </li>
-                <li>A number is a multiple of both 3 and 5 output Z</li>
-            </ol>
-        </li>
-        <li>
-            All fibonacci number up to and including the number entered
-        </li>
-    </ul>
-</div>    
 <b>How to use</b>
 
 1. Download the Zip file
